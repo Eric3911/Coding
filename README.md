@@ -2,8 +2,21 @@
 this my coding learing
 
 python基础教程
+
 https://www.runoob.com/python3/python3-basic-syntax.html
 https://www.runoob.com/python/python-exercise-example16.html
+
+Go基础教程
+
+https://www.runoob.com/go/go-tutorial.html
+http://c.biancheng.net/golang/
+
+scala基础教程
+
+https://www.runoob.com/scala/scala-tutorial.html
+
+
+AI工程项目命名
 
 https://unbug.github.io/codelf/
 
